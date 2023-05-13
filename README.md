@@ -4,6 +4,7 @@ This repository demonstrates the model-based synchronous machine electrical & me
 # Code Structure
 This work is based on MATLAB2019b
 
+# Citing
 The DEKF-based electrical parameter observer is first introducted at:
 
 ```
