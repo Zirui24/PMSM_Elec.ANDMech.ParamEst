@@ -5,8 +5,9 @@ This repository demonstrates the model-based synchronous machine electrical & me
 This work is based on MATLAB2019b
 
 The DEKF-based electrical parameter observer is first introducted at:
-'''
-@ARTICLE{10083049,
+
+```
+  @ARTICLE{10083049,
   author={Liu, Zirui and Kong, Wubin and Fan, Xinggang and Qu, Ronghai},
   journal={IEEE Transactions on Industrial Electronics}, 
   title={Online Multi-Parameter Observation of IPM Machine with Reconstructed Nonlinear Small-Signal Model Based on Dual EKF}, 
@@ -15,4 +16,4 @@ The DEKF-based electrical parameter observer is first introducted at:
   number={},
   pages={1-10},
   doi={10.1109/TIE.2023.3260353}}
-  '''
+```
