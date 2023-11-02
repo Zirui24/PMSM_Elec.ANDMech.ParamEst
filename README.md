@@ -18,3 +18,19 @@ The DEKF-based electrical parameter observer is first introducted at:
   pages={1-10},
   doi={10.1109/TIE.2023.3260353}}
 ```
+
+# Citing
+Also, the frequency model based electrical parameter observer is first introducted at:
+
+```
+  @ARTICLE{9835132,
+  author={Liu, Zirui and Fan, Xinggang and Kong, Wubin and Cao, Longfei and Qu, Ronghai},
+  journal={IEEE Transactions on Power Electronics}, 
+  title={Improved Small-Signal Injection-Based Online Multiparameter Identification Method for IPM Machines Considering Cross-Coupling Magnetic Saturation}, 
+  year={2022},
+  volume={37},
+  number={12},
+  pages={14362-14374},
+  doi={10.1109/TPEL.2022.3192692}}
+
+```
