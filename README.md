@@ -18,8 +18,6 @@ The DEKF-based electrical parameter observer is first introducted at:
   pages={1-10},
   doi={10.1109/TIE.2023.3260353}}
 ```
-
-# Citing
 Also, the frequency model based electrical parameter observer is first introducted at:
 
 ```
